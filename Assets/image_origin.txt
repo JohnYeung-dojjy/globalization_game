@@ -1,0 +1,9 @@
+background : https://pngtree.com/freebackground/simple-white-studio-light-background_364698.html
+
+table : https://pngtree.com/freebackground/wooden-texture-table---vector_1155477.html
+
+NPC1 : https://pngtree.com/freepng/women-wearing-suit-illustration_5475706.html
+
+NPC2 : https://pngtree.com/freepng/business-man-in-suit-calls-png_4530504.html
+
+stamp: https://pngtree.com/freepng/rectangle-stamp-vector-or-color-illustration_5280308.html
